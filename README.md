@@ -1,4 +1,4 @@
-# Asssignment-1-Game-Pitch
+# Asssignment-1-Game-Pitch Garrett Smith
 Game title- Final Illusion Utopia
 
 This game starts out in a crystal caves and you move out into a field and try to get to the final castle.
